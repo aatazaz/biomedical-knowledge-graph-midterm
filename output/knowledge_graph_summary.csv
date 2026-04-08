@@ -1,0 +1,10 @@
+Metric,Value
+Total Nodes,60
+Drug Nodes,20
+Disease Nodes,20
+Gene Nodes,20
+Total Relationships,40
+TREATS,20
+ASSOCIATED_WITH,20
+Top Disease,Inflammation
+Max Connections,3

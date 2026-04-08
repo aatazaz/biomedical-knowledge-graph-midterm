@@ -1,0 +1,28 @@
+
+ 
+ 
+Neo4j Connected Successfully!
+
+===== NODE VALIDATION =====
+Total Drug Nodes        : 20
+Total Disease Nodes     : 20
+Total Gene Nodes        : 20
+--------------------------------
+Total Nodes             : 60
+
+===== RELATIONSHIP VALIDATION =====
+TREATS Relationships        : 20
+ASSOCIATED_WITH Relationships : 20
+--------------------------------
+Total Relationships          : 40
+
+===== HUB ANALYSIS =====
+Most Connected Disease : Inflammation
+Connections Count      : 3
+
+===== SYSTEM STATUS =====
+✔ Data Loaded Successfully
+✔ Graph Created Successfully
+✔ Validation Passed
+
+Knowledge Graph Analysis Complete!

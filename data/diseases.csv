@@ -1,0 +1,21 @@
+id,name
+DS1,Fever
+DS2,Inflammation
+DS3,Diabetes
+DS4,Cholesterol
+DS5,Headache
+DS6,Bacterial Infection
+DS7,Hypertension
+DS8,Asthma
+DS9,Heart Disease
+DS10,Stroke
+DS11,Cancer
+DS12,Thyroid Disorder
+DS13,Ulcer
+DS14,Arthritis
+DS15,Obesity
+DS16,Pneumonia
+DS17,Depression
+DS18,Anxiety
+DS19,COVID-19
+DS20,Allergy
